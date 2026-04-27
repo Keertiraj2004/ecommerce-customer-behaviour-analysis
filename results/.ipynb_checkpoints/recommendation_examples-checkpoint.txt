@@ -1,0 +1,7 @@
+Top Product Recommendation Rules
+
+1. Mobile -> Earphones
+2. Laptop -> Mouse
+3. Dress -> Heels
+4. Shoes -> Socks
+5. Watch -> Sunglasses
