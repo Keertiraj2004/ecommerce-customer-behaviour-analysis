@@ -15,7 +15,7 @@
 
 > **Segment customers. Discover patterns. Drive revenue.**
 
-> An end-to-end unsupervised ML pipeline with clustering, association rule mining, and an interactive Streamlit dashboard.
+> An end-to-end unsupervised ML pipeline with clustering, association rule mining, and an interactive Streamlit dashboard.  
 
 <br/>
 
