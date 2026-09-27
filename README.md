@@ -78,7 +78,7 @@ Groups customers into *k* fixed segments based on behavioural similarity. Fast a
 **Hierarchical Clustering**  
 Builds a tree of customer groups. Useful for exploring nested relationships.
 
-</td>
+</td> 
 <td width="50%">
 
 **DBSCAN**  
