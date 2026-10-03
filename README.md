@@ -95,7 +95,7 @@ Probabilistic soft-clustering for flexible, overlapping group assignment.
 
 ---
 
-### 🛒 Product Recommendations — Association Rules
+### 🛒 Product Recommendations — Association Rules  
 
 | Algorithm | Approach | Key Strength |
 |---|---|---|
