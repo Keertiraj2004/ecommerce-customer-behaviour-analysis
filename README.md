@@ -72,7 +72,7 @@ ShippingType · Rating · ReviewText · TransactionDate
 <tr>
 <td width="50%">
 
-**K-Means Clustering**  
+**K-Means Clustering**     
 Groups customers into *k* fixed segments based on behavioural similarity. Fast and interpretable.
 
 **Hierarchical Clustering**  
